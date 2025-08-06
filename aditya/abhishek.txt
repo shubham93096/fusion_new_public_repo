@@ -1,0 +1,5 @@
+Aws Services Name
+ec2
+vpc
+s3
+ebs
